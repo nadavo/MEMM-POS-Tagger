@@ -1,5 +1,5 @@
 # MEMM-POS-Tagger
-### An MEMM POS Tagger implemented in Python 3 for an NLP Course at the Technion
+### An MEMM POS Tagger implemented in Python 3 as part of an NLP Course at the Technion
 
 
 **Authors:**
